@@ -10,12 +10,8 @@ export const Results = () => {
   return (
     <div>
       <Header />
-      {/* <CountryInfo /> */}
-      {countryName ? (
-        <p>Details for {countryName}</p>
-      ) : (
-        <p>No country selected</p>
-      )}
+      <CountryInfo countryName={countryName} />
+
       <Footer />
     </div>
   );
