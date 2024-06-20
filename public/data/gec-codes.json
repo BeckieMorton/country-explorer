@@ -1,0 +1,1568 @@
+[
+  {
+    "GEC-code": "af",
+    "country": "Afghanistan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "al",
+    "country": "Albania",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ag",
+    "country": "Algeria",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "an",
+    "country": "Andorra",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ao",
+    "country": "Angola",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ac",
+    "country": "Antigua and Barbuda",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ar",
+    "country": "Argentina",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "am",
+    "country": "Armenia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "as",
+    "country": "Australia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "au",
+    "country": "Austria",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "aj",
+    "country": "Azerbaijan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bf",
+    "country": "The Bahamas",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ba",
+    "country": "Bahrain",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bg",
+    "country": "Bangladesh",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bb",
+    "country": "Barbados",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bo",
+    "country": "Belarus",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "be",
+    "country": "Belgium",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bh",
+    "country": "Belize",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bn",
+    "country": "Benin",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bt",
+    "country": "Bhutan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bl",
+    "country": "Bolivia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bk",
+    "country": "Bosnis and Herzegovina",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bc",
+    "country": "Botswana",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "br",
+    "country": "Brazil",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bx",
+    "country": "Brunei",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bu",
+    "country": "Bulgaria",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "uv",
+    "country": "Burkina Faso",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bm",
+    "country": "Burma",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "by",
+    "country": "Burundi",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cb",
+    "country": "Cambodia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cm",
+    "country": "Cameroon",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ca",
+    "country": "Canada",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cv",
+    "country": "Cape Verde",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ct",
+    "country": "Central African Republic",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cd",
+    "country": "Chad",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ci",
+    "country": "Chile",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ch",
+    "country": "China",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "co",
+    "country": "Colombia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cn",
+    "country": "Comoros",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cg",
+    "country": "Congo DR",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cf",
+    "country": "Congo",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cs",
+    "country": "Costa Rica",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "iv",
+    "country": "Cote d'Ivoire",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "hr",
+    "country": "Croatia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cu",
+    "country": "Cuba",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "cy",
+    "country": "Cyprus",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ez",
+    "country": "Czech Republic",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "da",
+    "country": "Denmark",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "dj",
+    "country": "Djibouti",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "do",
+    "country": "Dominica",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "dr",
+    "country": "Dominican Republic",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ec",
+    "country": "Ecuador",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "eg",
+    "country": "Egypt",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "es",
+    "country": "El Salvador",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ek",
+    "country": "Equatorial Guniea",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "er",
+    "country": "Eritrea",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "en",
+    "country": "Estonia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "et",
+    "country": "Ethiopia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "fj",
+    "country": "Fiji",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "fi",
+    "country": "Finland",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "fr",
+    "country": "France",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gb",
+    "country": "Gabon",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ga",
+    "country": "The Gambia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gg",
+    "country": "Georgia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gm",
+    "country": "Germany",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gh",
+    "country": "Ghana",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gr",
+    "country": "Greece",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gj",
+    "country": "Grenada",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gt",
+    "country": "Guatemala",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gv",
+    "country": "Guinea",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pu",
+    "country": "Guinea-Bissau",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gy",
+    "country": "Guyana",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ha",
+    "country": "Haiti",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ho",
+    "country": "Honduras",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "hu",
+    "country": "Hungary",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ic",
+    "country": "Iceland",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "in",
+    "country": "India",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "id",
+    "country": "Indonesia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ir",
+    "country": "Iran",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "iz",
+    "country": "Iraq",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ei",
+    "country": "Ireland",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "is",
+    "country": "Israel",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "it",
+    "country": "Italy",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "jm",
+    "country": "Jamaica",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ja",
+    "country": "Japan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "jo",
+    "country": "Jordan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "kz",
+    "country": "Kazakhstan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ke",
+    "country": "Kenya",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "kr",
+    "country": "Kiribati",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "kn",
+    "country": "North Korea",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ks",
+    "country": "South Korea",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "kv",
+    "country": "Kosovo",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ku",
+    "country": "Kuwait",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "kg",
+    "country": "Kyrgyzstan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "la",
+    "country": "Laos",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "lg",
+    "country": "Latvia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "le",
+    "country": "Lebanon",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "lt",
+    "country": "Lesotho",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "li",
+    "country": "Liberia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ly",
+    "country": "Libya",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ls",
+    "country": "Liechtenstein",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "lh",
+    "country": "Lithuania",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "lu",
+    "country": "Luxembourg",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mk",
+    "country": "Macedonia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ma",
+    "country": "Madagascar",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mi",
+    "country": "Malawi",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "my",
+    "country": "Malaysia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mv",
+    "country": "Maldives",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ml",
+    "country": "Mali",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mt",
+    "country": "Malta",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "rm",
+    "country": "Marshall Islands",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mr",
+    "country": "Mauritania",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mp",
+    "country": "Mauritius",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mx",
+    "country": "Mexico",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "fm",
+    "country": "Micronesia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "md",
+    "country": "Moldova",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mn",
+    "country": "Monaco",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mg",
+    "country": "Mongolia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mj",
+    "country": "Montenegro",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mo",
+    "country": "Morocco",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mz",
+    "country": "Mozambique",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "wa",
+    "country": "Namibia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "nr",
+    "country": "Nauru",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "np",
+    "country": "Nepal",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "nl",
+    "country": "Netherlands",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "nz",
+    "country": "New Zealand",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "nu",
+    "country": "Nicaragua",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ng",
+    "country": "Niger",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ni",
+    "country": "Nigeria",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "no",
+    "country": "Norway",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "mu",
+    "country": "Oman",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pk",
+    "country": "Pakistan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ps",
+    "country": "Palau",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pm",
+    "country": "Panama",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pp",
+    "country": "Papua New Guinea",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pa",
+    "country": "Paraguay",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pe",
+    "country": "Peru",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "rp",
+    "country": "Philippines",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pl",
+    "country": "Poland",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "po",
+    "country": "Portugal",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "qa",
+    "country": "Qatar",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ro",
+    "country": "Romania",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "rs",
+    "country": "Russia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "rw",
+    "country": "Rwanda",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sc",
+    "country": "Saint Kitts and Nevis",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "st",
+    "country": "Saint Lucia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "vc",
+    "country": "Saint Vincent and the Grenadines",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ws",
+    "country": "Samoa",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sm",
+    "country": "San Marino",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tp",
+    "country": "Sao Tome and Principe",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sa",
+    "country": "Saudi Arabia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sg",
+    "country": "Senegal",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ri",
+    "country": "Serbia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "se",
+    "country": "Seychelles",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sl",
+    "country": "Sierra Leone",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sn",
+    "country": "Singapore",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "lo",
+    "country": "Slovakia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "si",
+    "country": "Slovenia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "bp",
+    "country": "Solomon Islands",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "so",
+    "country": "Somalia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sf",
+    "country": "South Africa",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "od",
+    "country": "South Sudan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sp",
+    "country": "Spain",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ce",
+    "country": "Sri Lanka",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "su",
+    "country": "Sudan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ns",
+    "country": "Suriname",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "wz",
+    "country": "Swaziland",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sw",
+    "country": "Sweden",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sz",
+    "country": "Switzerland",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "sy",
+    "country": "Syria",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ti",
+    "country": "Tajikistan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tz",
+    "country": "Tanzania",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "th",
+    "country": "Thailand",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tt",
+    "country": "Timor-Leste",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "to",
+    "country": "Togo",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tn",
+    "country": "Tonga",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "td",
+    "country": "Trinidad and Tobago",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ts",
+    "country": "Tunisia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tu",
+    "country": "Turkey",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tx",
+    "country": "Turkmenistan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tv",
+    "country": "Tuvalu",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ug",
+    "country": "Uganda",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "up",
+    "country": "Ukraine",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ae",
+    "country": "United Arab Emirates",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "uk",
+    "country": "United Kingdom",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "us",
+    "country": "United States",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "uy",
+    "country": "Uruguay",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "uz",
+    "country": "Uzbekistan",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "nh",
+    "country": "Vanuatu",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "vt",
+    "country": "Vatican City",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ve",
+    "country": "Vanezuela",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "vm",
+    "country": "Vietnam",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ym",
+    "country": "Yemen",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "za",
+    "country": "Zambia",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "zi",
+    "country": "Zimbabwe",
+    "type": "sovereign",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "tw",
+    "country": "Taiwan",
+    "type": "other",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "ee",
+    "country": "European Union",
+    "type": "other",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "at",
+    "country": "Ashmore and Cartier Islands",
+    "type": "dependency",
+    "dependency": "Australia"
+  },
+  {
+    "GEC-code": "kt",
+    "country": "Christmas Island",
+    "type": "dependency",
+    "dependency": "Australia"
+  },
+  {
+    "GEC-code": "ck",
+    "country": "Cocos (Keeling) Islands",
+    "type": "dependency",
+    "dependency": "Australia"
+  },
+  {
+    "GEC-code": "cr",
+    "country": "Coral Sea Islands",
+    "type": "dependency",
+    "dependency": "Australia"
+  },
+  {
+    "GEC-code": "hm",
+    "country": "Heard Island and Mc Donald Islands",
+    "type": "dependency",
+    "dependency": "Australia"
+  },
+  {
+    "GEC-code": "nf",
+    "country": "Norfolk Island",
+    "type": "dependency",
+    "dependency": "Australia"
+  },
+  {
+    "GEC-code": "hk",
+    "country": "Hong Kong",
+    "type": "dependency",
+    "dependency": "China"
+  },
+  {
+    "GEC-code": "mc",
+    "country": "Macau",
+    "type": "dependency",
+    "dependency": "China"
+  },
+  {
+    "GEC-code": "fo",
+    "country": "Faroe Islands",
+    "type": "dependency",
+    "dependency": "Denmark"
+  },
+  {
+    "GEC-code": "gl",
+    "country": "Greenland",
+    "type": "dependency",
+    "dependency": "Denmark"
+  },
+  {
+    "GEC-code": "ip",
+    "country": "Clipperton Island",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "fp",
+    "country": "French Polynesia",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "fs",
+    "country": "French Southern and Antarctic Lands",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "nc",
+    "country": "New Caledonia",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "tb",
+    "country": "Saint Barthelemy",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "rn",
+    "country": "Saint Martin",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "sb",
+    "country": "Saint Pierre and Miquelon",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "wf",
+    "country": "Wallis and Futuna",
+    "type": "dependency",
+    "dependency": "France"
+  },
+  {
+    "GEC-code": "aa",
+    "country": "Aruba",
+    "type": "dependency",
+    "dependency": "Netherlands"
+  },
+  {
+    "GEC-code": "uc",
+    "country": "Curacao",
+    "type": "dependency",
+    "dependency": "Netherlands"
+  },
+  {
+    "GEC-code": "nn",
+    "country": "Sint Maarten",
+    "type": "dependency",
+    "dependency": "Netherlands"
+  },
+  {
+    "GEC-code": "cw",
+    "country": "Cook Islands",
+    "type": "dependency",
+    "dependency": "New Zealand"
+  },
+  {
+    "GEC-code": "ne",
+    "country": "Niue",
+    "type": "dependency",
+    "dependency": "New Zealand"
+  },
+  {
+    "GEC-code": "tl",
+    "country": "Tokelau",
+    "type": "dependency",
+    "dependency": "New Zealand"
+  },
+  {
+    "GEC-code": "bv",
+    "country": "Bouvet Island",
+    "type": "dependency",
+    "dependency": "Norway"
+  },
+  {
+    "GEC-code": "jn",
+    "country": "Jan Mayen",
+    "type": "dependency",
+    "dependency": "Norway"
+  },
+  {
+    "GEC-code": "sv",
+    "country": "Svalbard",
+    "type": "dependency",
+    "dependency": "Norway"
+  },
+  {
+    "GEC-code": "ax",
+    "country": "Akrotiri (Sovereign Base)",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "av",
+    "country": "Anguilla",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "bd",
+    "country": "Bermuda",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "io",
+    "country": "British Indian Ocean Territory",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "vi",
+    "country": "Brtish Virgin Islands",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "cj",
+    "country": "Cayman Islands",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "dx",
+    "country": "Dhekelia (Sovereign Base)",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "fk",
+    "country": "Falkland Islands",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "gi",
+    "country": "Gibraltar",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "gk",
+    "country": "Guernsey",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "je",
+    "country": "Jersey",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "im",
+    "country": "Isle of Man",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "mh",
+    "country": "Montserrat",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "pc",
+    "country": "Pitcairn Islands",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "sh",
+    "country": "Saint Helena",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "sx",
+    "country": "South Georgia and the South Sandwich Islands",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "tk",
+    "country": "Turks and Caicos Islands",
+    "type": "dependency",
+    "dependency": "United Kingdom"
+  },
+  {
+    "GEC-code": "aq",
+    "country": "American Samoa",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "gq",
+    "country": "Guam",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "bq",
+    "country": "Navassa Island",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "cq",
+    "country": "Northern Mariana Islands",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "rq",
+    "country": "Puerto Rico",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "vq",
+    "country": "US Virgin Islands",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "wq",
+    "country": "Wake Island",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "um",
+    "country": "US Pacific Island Wildliife Refuges (Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reff, Midway Islands, Palyra Atoll)",
+    "type": "dependency",
+    "dependency": "United States"
+  },
+  {
+    "GEC-code": "ay",
+    "country": "Antarctica",
+    "type": "miscellaneous",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "gz",
+    "country": "Gaza Strip",
+    "type": "miscellaneous",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pf",
+    "country": "Paracel Islands",
+    "type": "miscellaneous",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "pg",
+    "country": "Sparatly Islands",
+    "type": "miscellaneous",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "we",
+    "country": "West Bank",
+    "type": "miscellaneous",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "wi",
+    "country": "Western Sahara",
+    "type": "miscellaneous",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "xq",
+    "country": "Arctic Ocean",
+    "type": "ocean",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "zh",
+    "country": "Atlantic Ocean",
+    "type": "ocean",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "xo",
+    "country": "Indian Ocean",
+    "type": "ocean",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "zn",
+    "country": "Pacific Ocean",
+    "type": "ocean",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "oo",
+    "country": "Southern Ocean",
+    "type": "ocean",
+    "dependency": ""
+  },
+  {
+    "GEC-code": "xx",
+    "country": "World",
+    "type": "world",
+    "dependency": ""
+  }
+]

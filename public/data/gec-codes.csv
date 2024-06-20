@@ -1,0 +1,262 @@
+﻿GEC-code,country,type,dependency
+af,Afghanistan,sovereign,
+al,Albania,sovereign,
+ag,Algeria,sovereign,
+an,Andorra,sovereign,
+ao,Angola,sovereign,
+ac,Antigua and Barbuda,sovereign,
+ar,Argentina,sovereign,
+am,Armenia,sovereign,
+as,Australia,sovereign,
+au,Austria,sovereign,
+aj,Azerbaijan,sovereign,
+bf,The Bahamas,sovereign,
+ba,Bahrain,sovereign,
+bg,Bangladesh,sovereign,
+bb,Barbados,sovereign,
+bo,Belarus,sovereign,
+be,Belgium,sovereign,
+bh,Belize,sovereign,
+bn,Benin,sovereign,
+bt,Bhutan,sovereign,
+bl,Bolivia,sovereign,
+bk,Bosnis and Herzegovina,sovereign,
+bc,Botswana,sovereign,
+br,Brazil,sovereign,
+bx,Brunei,sovereign,
+bu,Bulgaria,sovereign,
+uv,Burkina Faso,sovereign,
+bm,Burma,sovereign,
+by,Burundi,sovereign,
+cb,Cambodia,sovereign,
+cm,Cameroon,sovereign,
+ca,Canada,sovereign,
+cv,Cape Verde,sovereign,
+ct,Central African Republic,sovereign,
+cd,Chad,sovereign,
+ci,Chile,sovereign,
+ch,China,sovereign,
+co,Colombia,sovereign,
+cn,Comoros,sovereign,
+cg,Congo DR,sovereign,
+cf,Congo,sovereign,
+cs,Costa Rica,sovereign,
+iv,Cote d'Ivoire,sovereign,
+hr,Croatia,sovereign,
+cu,Cuba,sovereign,
+cy,Cyprus,sovereign,
+ez,Czech Republic,sovereign,
+da,Denmark,sovereign,
+dj,Djibouti,sovereign,
+do,Dominica,sovereign,
+dr,Dominican Republic,sovereign,
+ec,Ecuador,sovereign,
+eg,Egypt,sovereign,
+es,El Salvador,sovereign,
+ek,Equatorial Guniea,sovereign,
+er,Eritrea,sovereign,
+en,Estonia,sovereign,
+et,Ethiopia,sovereign,
+fj,Fiji,sovereign,
+fi,Finland,sovereign,
+fr,France,sovereign,
+gb,Gabon,sovereign,
+ga,The Gambia,sovereign,
+gg,Georgia,sovereign,
+gm,Germany,sovereign,
+gh,Ghana,sovereign,
+gr,Greece,sovereign,
+gj,Grenada,sovereign,
+gt,Guatemala,sovereign,
+gv,Guinea,sovereign,
+pu,Guinea-Bissau,sovereign,
+gy,Guyana,sovereign,
+ha,Haiti,sovereign,
+ho,Honduras,sovereign,
+hu,Hungary,sovereign,
+ic,Iceland,sovereign,
+in,India,sovereign,
+id,Indonesia,sovereign,
+ir,Iran,sovereign,
+iz,Iraq,sovereign,
+ei,Ireland,sovereign,
+is,Israel,sovereign,
+it,Italy,sovereign,
+jm,Jamaica,sovereign,
+ja,Japan,sovereign,
+jo,Jordan,sovereign,
+kz,Kazakhstan,sovereign,
+ke,Kenya,sovereign,
+kr,Kiribati,sovereign,
+kn,North Korea,sovereign,
+ks,South Korea,sovereign,
+kv,Kosovo,sovereign,
+ku,Kuwait,sovereign,
+kg,Kyrgyzstan,sovereign,
+la,Laos,sovereign,
+lg,Latvia,sovereign,
+le,Lebanon,sovereign,
+lt,Lesotho,sovereign,
+li,Liberia,sovereign,
+ly,Libya,sovereign,
+ls,Liechtenstein,sovereign,
+lh,Lithuania,sovereign,
+lu,Luxembourg,sovereign,
+mk,Macedonia,sovereign,
+ma,Madagascar,sovereign,
+mi,Malawi,sovereign,
+my,Malaysia,sovereign,
+mv,Maldives,sovereign,
+ml,Mali,sovereign,
+mt,Malta,sovereign,
+rm,Marshall Islands,sovereign,
+mr,Mauritania,sovereign,
+mp,Mauritius,sovereign,
+mx,Mexico,sovereign,
+fm,Micronesia,sovereign,
+md,Moldova,sovereign,
+mn,Monaco,sovereign,
+mg,Mongolia,sovereign,
+mj,Montenegro,sovereign,
+mo,Morocco,sovereign,
+mz,Mozambique,sovereign,
+wa,Namibia,sovereign,
+nr,Nauru,sovereign,
+np,Nepal,sovereign,
+nl,Netherlands,sovereign,
+nz,New Zealand,sovereign,
+nu,Nicaragua,sovereign,
+ng,Niger,sovereign,
+ni,Nigeria,sovereign,
+no,Norway,sovereign,
+mu,Oman,sovereign,
+pk,Pakistan,sovereign,
+ps,Palau,sovereign,
+pm,Panama,sovereign,
+pp,Papua New Guinea,sovereign,
+pa,Paraguay,sovereign,
+pe,Peru,sovereign,
+rp,Philippines,sovereign,
+pl,Poland,sovereign,
+po,Portugal,sovereign,
+qa,Qatar,sovereign,
+ro,Romania,sovereign,
+rs,Russia,sovereign,
+rw,Rwanda,sovereign,
+sc,Saint Kitts and Nevis,sovereign,
+st,Saint Lucia,sovereign,
+vc,Saint Vincent and the Grenadines,sovereign,
+ws,Samoa,sovereign,
+sm,San Marino,sovereign,
+tp,Sao Tome and Principe,sovereign,
+sa,Saudi Arabia,sovereign,
+sg,Senegal,sovereign,
+ri,Serbia,sovereign,
+se,Seychelles,sovereign,
+sl,Sierra Leone,sovereign,
+sn,Singapore,sovereign,
+lo,Slovakia,sovereign,
+si,Slovenia,sovereign,
+bp,Solomon Islands,sovereign,
+so,Somalia,sovereign,
+sf,South Africa,sovereign,
+od,South Sudan,sovereign,
+sp,Spain,sovereign,
+ce,Sri Lanka,sovereign,
+su,Sudan,sovereign,
+ns,Suriname,sovereign,
+wz,Swaziland,sovereign,
+sw,Sweden,sovereign,
+sz,Switzerland,sovereign,
+sy,Syria,sovereign,
+ti,Tajikistan,sovereign,
+tz,Tanzania,sovereign,
+th,Thailand,sovereign,
+tt,Timor-Leste,sovereign,
+to,Togo,sovereign,
+tn,Tonga,sovereign,
+td,Trinidad and Tobago,sovereign,
+ts,Tunisia,sovereign,
+tu,Turkey,sovereign,
+tx,Turkmenistan,sovereign,
+tv,Tuvalu,sovereign,
+ug,Uganda,sovereign,
+up,Ukraine,sovereign,
+ae,United Arab Emirates,sovereign,
+uk,United Kingdom,sovereign,
+us,United States,sovereign,
+uy,Uruguay,sovereign,
+uz,Uzbekistan,sovereign,
+nh,Vanuatu,sovereign,
+vt,Vatican City,sovereign,
+ve,Vanezuela,sovereign,
+vm,Vietnam,sovereign,
+ym,Yemen,sovereign,
+za,Zambia,sovereign,
+zi,Zimbabwe,sovereign,
+tw,Taiwan,other,
+ee,European Union,other,
+at,Ashmore and Cartier Islands,dependency,Australia
+kt,Christmas Island,dependency,Australia
+ck,Cocos (Keeling) Islands,dependency,Australia
+cr,Coral Sea Islands,dependency,Australia
+hm,Heard Island and Mc Donald Islands,dependency,Australia
+nf,Norfolk Island,dependency,Australia
+hk,Hong Kong,dependency,China
+mc,Macau,dependency,China
+fo,Faroe Islands,dependency,Denmark
+gl,Greenland,dependency,Denmark
+ip,Clipperton Island,dependency,France
+fp,French Polynesia,dependency,France
+fs,French Southern and Antarctic Lands,dependency,France
+nc,New Caledonia,dependency,France
+tb,Saint Barthelemy,dependency,France
+rn,Saint Martin,dependency,France
+sb,Saint Pierre and Miquelon,dependency,France
+wf,Wallis and Futuna,dependency,France
+aa,Aruba,dependency,Netherlands
+uc,Curacao,dependency,Netherlands
+nn,Sint Maarten,dependency,Netherlands
+cw,Cook Islands,dependency,New Zealand
+ne,Niue,dependency,New Zealand
+tl,Tokelau,dependency,New Zealand
+bv,Bouvet Island,dependency,Norway
+jn,Jan Mayen,dependency,Norway
+sv,Svalbard,dependency,Norway
+ax,Akrotiri (Sovereign Base),dependency,United Kingdom
+av,Anguilla,dependency,United Kingdom
+bd,Bermuda,dependency,United Kingdom
+io,British Indian Ocean Territory,dependency,United Kingdom
+vi,Brtish Virgin Islands,dependency,United Kingdom
+cj,Cayman Islands,dependency,United Kingdom
+dx,Dhekelia (Sovereign Base),dependency,United Kingdom
+fk,Falkland Islands,dependency,United Kingdom
+gi,Gibraltar,dependency,United Kingdom
+gk,Guernsey,dependency,United Kingdom
+je,Jersey,dependency,United Kingdom
+im,Isle of Man,dependency,United Kingdom
+mh,Montserrat,dependency,United Kingdom
+pc,Pitcairn Islands,dependency,United Kingdom
+sh,Saint Helena,dependency,United Kingdom
+sx,South Georgia and the South Sandwich Islands,dependency,United Kingdom
+tk,Turks and Caicos Islands,dependency,United Kingdom
+aq,American Samoa,dependency,United States
+gq,Guam,dependency,United States
+bq,Navassa Island,dependency,United States
+cq,Northern Mariana Islands,dependency,United States
+rq,Puerto Rico,dependency,United States
+vq,US Virgin Islands,dependency,United States
+wq,Wake Island,dependency,United States
+um,"US Pacific Island Wildliife Refuges (Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reff, Midway Islands, Palyra Atoll)",dependency,United States
+ay,Antarctica,miscellaneous,
+gz,Gaza Strip,miscellaneous,
+pf,Paracel Islands,miscellaneous,
+pg,Sparatly Islands,miscellaneous,
+we,West Bank,miscellaneous,
+wi,Western Sahara,miscellaneous,
+xq,Arctic Ocean,ocean,
+zh,Atlantic Ocean,ocean,
+xo,Indian Ocean,ocean,
+zn,Pacific Ocean,ocean,
+oo,Southern Ocean,ocean,
+xx,World,world,

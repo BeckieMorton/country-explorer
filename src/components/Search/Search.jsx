@@ -7,6 +7,13 @@ export const Search = () => {
   const [chosenCountry, setChosenCountry] = useState("");
   const navigate = useNavigate();
 
+  // Function to focus on the input element
+  const focusInput = () => {
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
+  };
+
   const handleButtonClick = () => {
     navigate(`/country`, {
       state: { countryName: chosenCountry },
